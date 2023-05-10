@@ -1,0 +1,200 @@
+
+		
+
+		#evocacao-title {
+			background-color:#161318;
+			color: white;
+			text-align: center;
+			font-size: 25px;
+			height: 120px;
+			line-height: 40px;
+			padding-top: 50px;
+			padding-left: 40%;
+
+
+		}
+		.menu{
+			background-color: #161318;
+			width: 100%;
+		}
+		.menu a {
+			color: white;
+			text-decoration: none;
+			display: inline-block;
+			width: 333px;
+			height: 100%;
+		}
+
+		.menu ul {
+			list-style: none;
+			margin: 0;
+			padding: 0px;
+		}
+
+		.menu li {
+			display: inline-block;
+		}
+
+.texto2 {
+  font-size: 15px;
+  color: white;
+  font-family: Times New Roman, Verdana, Sans, Arial;
+  text-align: left;
+
+}
+
+.texto3 {
+  font-size: 23px;
+  color: white;
+  font-family: Times New Roman, Verdana, Sans, Arial;
+  text-align: center;
+
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  width: 100%;
+  line-height: 10px;
+  font-size: 25px;
+  
+}
+
+h2 {
+  color: white;
+  text-align: center;
+  width: 100%;
+  line-height: 120px;
+  font-size: 35px;
+  border: 1px;
+
+}
+
+h3 {
+  color: white;
+  text-align: center;
+  width: 100%;
+  line-height: 120px;
+  font-size: 18px;
+  border: 1px;
+  
+}
+
+audio {
+  height: 30px;
+}
+
+.label1 {
+	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+	font-style: italic;
+	color: white;
+	margin-left: 30px;
+	margin-right: 200px;
+	font-size: 32px;
+	padding-top: 30px;
+}
+.label2 {
+	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+	font-style: italic;
+	color: white;
+	margin-left: 30px;
+	margin-right: 230px;
+	font-size: 32px;
+}
+.label3 {
+	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+	font-style: italic;
+	color: white;
+	margin-left: 30px;
+	margin-right: 182px;
+	font-size: 32px;
+}
+.label4 {
+	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+	font-style: italic;
+	color: white;
+	margin-left: 30px;
+	margin-right: 40px;
+	font-size: 32px;
+}
+.label5 {
+	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+	font-style: italic;
+	color: white;
+	margin-left: 30px;
+	margin-right: 82px;
+	font-size: 32px;
+}
+.label6 {
+	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+	font-style: italic;
+	color: white;
+	margin-left: 30px;
+	margin-right: 304px;
+	font-size: 32px;
+}
+.label7 {
+	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+	font-style: italic;
+	color: white;
+	margin-left: 30px;
+	margin-right: 119px;
+	font-size: 32px;
+}
+
+
+.sidenav {
+	height: 100%;
+	width: 0;
+	position: fixed;
+	z-index: 1;
+	top: 0;
+	left: 0;
+	background-color: #111;
+	overflow-x: hidden;
+	transition: 0.5s;
+	padding-top: 60px;
+  }
+  
+  .sidenav a {
+	padding: 8px 8px 8px 32px;
+	text-decoration: none;
+	font-size: 25px;
+	color: #818181;
+	display: block;
+	transition: 0.3s;
+  }
+  
+  .sidenav a:hover {
+	color: #f1f1f1;
+  }
+  
+  .sidenav .closebtn {
+	position: absolute;
+	top: 0;
+	right: 25px;
+	font-size: 36px;
+	margin-left: 50px;
+  }
+  
+  @media screen and (max-height: 450px) {
+	.sidenav {padding-top: 15px;}
+	.sidenav a {font-size: 18px;}
+  }
+  
+  .main {
+	margin-left: 200px; 
+  }
+
+  .title-menu {
+	color: white;
+	text-decoration: solid;
+	font-weight: bold;
+	font-size: 20px;	
+  }
+
+.drawer {
+	margin-left: 25px;
+	font-size: 25px;
+	color: white;
+}
